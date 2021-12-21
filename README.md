@@ -5,6 +5,7 @@
 # My thoughts and Logic
 
 I made my own version of a rock, paper, scissors game using Python.
+
 You can find the "official" rules of the game on [the World Rock Paper Scissors Association website.](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/)
 
 I used the ASCII art for the hand signals and saved to a corresponding variable: `rock`, `paper`, and `scissors`. 
